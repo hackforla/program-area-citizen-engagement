@@ -13,7 +13,7 @@ Civic projects often exist within a larger context that may include multiple sta
 
 Explain the different ways people can contribute. For example:
 
-- Join the team {#citizen-engagement}.
+- Join the team (https://app.slack.com/client/T04502KQX/C01TN93NKC7).
 
 ### Working with issues
 
